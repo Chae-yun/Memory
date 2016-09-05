@@ -40,12 +40,12 @@
         "source": "/Users/appcreator04/Desktop/Memory/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_list_menu_item_layout.xml"
     },
     {
-        "merged": "/Users/appcreator04/Desktop/Memory/Application/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
-        "source": "/Users/appcreator04/Desktop/Memory/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/notification_template_part_time.xml"
-    },
-    {
         "merged": "/Users/appcreator04/Desktop/Memory/Application/build/intermediates/res/merged/debug/layout/drawer_list_item.xml",
         "source": "/Users/appcreator04/Desktop/Memory/Application/src/main/res/layout/drawer_list_item.xml"
+    },
+    {
+        "merged": "/Users/appcreator04/Desktop/Memory/Application/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/Users/appcreator04/Desktop/Memory/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/notification_template_part_time.xml"
     },
     {
         "merged": "/Users/appcreator04/Desktop/Memory/Application/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
@@ -88,6 +88,10 @@
         "source": "/Users/appcreator04/Desktop/Memory/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/notification_media_action.xml"
     },
     {
+        "merged": "/Users/appcreator04/Desktop/Memory/Application/build/intermediates/res/merged/debug/layout/fragment_memory.xml",
+        "source": "/Users/appcreator04/Desktop/Memory/Application/src/main/res/layout/fragment_memory.xml"
+    },
+    {
         "merged": "/Users/appcreator04/Desktop/Memory/Application/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
         "source": "/Users/appcreator04/Desktop/Memory/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_screen_simple_overlay_action_mode.xml"
     },
@@ -126,10 +130,6 @@
     {
         "merged": "/Users/appcreator04/Desktop/Memory/Application/build/intermediates/res/merged/debug/layout/sample_dashboard_item.xml",
         "source": "/Users/appcreator04/Desktop/Memory/Application/src/main/res/layout/sample_dashboard_item.xml"
-    },
-    {
-        "merged": "/Users/appcreator04/Desktop/Memory/Application/build/intermediates/res/merged/debug/layout/fragment_planet.xml",
-        "source": "/Users/appcreator04/Desktop/Memory/Application/src/main/res/layout/fragment_planet.xml"
     },
     {
         "merged": "/Users/appcreator04/Desktop/Memory/Application/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",

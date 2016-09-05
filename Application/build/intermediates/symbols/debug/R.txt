@@ -8,7 +8,7 @@ int anim abc_slide_in_bottom 0x7f040006
 int anim abc_slide_in_top 0x7f040007
 int anim abc_slide_out_bottom 0x7f040008
 int anim abc_slide_out_top 0x7f040009
-int array planets_array 0x7f090000
+int array memory_array 0x7f090000
 int attr actionBarDivider 0x7f010040
 int attr actionBarItemBackground 0x7f010041
 int attr actionBarPopupTheme 0x7f01003a
@@ -658,7 +658,7 @@ int layout abc_select_dialog_material 0x7f030019
 int layout activity_main 0x7f03001a
 int layout activity_navigation_drawer 0x7f03001b
 int layout drawer_list_item 0x7f03001c
-int layout fragment_planet 0x7f03001d
+int layout fragment_memory 0x7f03001d
 int layout notification_media_action 0x7f03001e
 int layout notification_media_cancel_action 0x7f03001f
 int layout notification_template_big_media 0x7f030020

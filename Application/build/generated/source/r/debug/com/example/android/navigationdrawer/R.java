@@ -21,7 +21,7 @@ public final class R {
         public static final int abc_slide_out_top=0x7f040009;
     }
     public static final class array {
-        public static final int planets_array=0x7f090000;
+        public static final int memory_array=0x7f090000;
     }
     public static final class attr {
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
@@ -2079,7 +2079,7 @@ containing a value of this type.
         public static final int activity_main=0x7f03001a;
         public static final int activity_navigation_drawer=0x7f03001b;
         public static final int drawer_list_item=0x7f03001c;
-        public static final int fragment_memory =0x7f03001d;
+        public static final int fragment_memory=0x7f03001d;
         public static final int notification_media_action=0x7f03001e;
         public static final int notification_media_cancel_action=0x7f03001f;
         public static final int notification_template_big_media=0x7f030020;
