@@ -96,6 +96,10 @@
         "source": "/Users/appcreator04/Desktop/Memory/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/notification_media_action.xml"
     },
     {
+        "merged": "/Users/appcreator04/Desktop/Memory/Application/build/intermediates/res/merged/debug/layout/activity_splash.xml",
+        "source": "/Users/appcreator04/Desktop/Memory/Application/src/main/res/layout/activity_splash.xml"
+    },
+    {
         "merged": "/Users/appcreator04/Desktop/Memory/Application/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
         "source": "/Users/appcreator04/Desktop/Memory/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_screen_simple_overlay_action_mode.xml"
     },
