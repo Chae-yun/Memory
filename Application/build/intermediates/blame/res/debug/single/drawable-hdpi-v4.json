@@ -124,10 +124,6 @@
         "source": "/Users/appcreator04/Desktop/Memory/Application/src/main/res/drawable-hdpi/ic_drawer.png"
     },
     {
-        "merged": "/Users/appcreator04/Desktop/Memory/Application/build/intermediates/res/merged/debug/drawable-hdpi-v4/tile.9.png",
-        "source": "/Users/appcreator04/Desktop/Memory/Application/src/main/res/drawable-hdpi/tile.9.png"
-    },
-    {
         "merged": "/Users/appcreator04/Desktop/Memory/Application/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png",
         "source": "/Users/appcreator04/Desktop/Memory/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable-hdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png"
     },

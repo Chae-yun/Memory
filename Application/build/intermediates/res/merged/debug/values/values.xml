@@ -270,6 +270,9 @@
     <string name="navigationdraweractivity_description">This example illustrates a common usage of the DrawerLayout widget in the Android
             support library.</string>
     <string name="navigationdraweractivity_title">Navigation Drawer Example</string>
+    <string name="st01">PUDDING</string>
+    <string name="st02">GODIVA</string>
+    <string name="st09">스타벅스 : 악마의 음료</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <style name="AlertDialog.AppCompat" parent="Base.AlertDialog.AppCompat"/>
     <style name="AlertDialog.AppCompat.Light" parent="Base.AlertDialog.AppCompat.Light"/>

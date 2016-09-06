@@ -4,12 +4,12 @@
     api-level="21"
     density="hdpi"
     format="7"
-    timestamp="3068929348153"
+    timestamp="806019889835"
     token="-8785710335072173502" >
 
     <task
         name="javac"
-        duration="0" />
+        duration="423" />
     <task
         name="instant-run-dex"
         duration="0" />
@@ -20,11 +20,29 @@
         name="verifier"
         duration="0" />
 
-    <build timestamp="2513855454325" >
+    <artifact
+        location="/Users/appcreator04/Desktop/Memory/Application/build/intermediates/res/resources-debug.ap_"
+        type="RESOURCES" />
+
+    <build timestamp="600207736736" >
         <artifact
             location="/Users/appcreator04/Desktop/Memory/Application/build/outputs/apk/Application-debug.apk"
             type="MAIN" />
     </build>
-    <build timestamp="3068929348153" />
+    <build
+        timestamp="769740410697"
+        verifier="R_CLASS_CHANGE" >
+        <artifact
+            location="/Users/appcreator04/Desktop/Memory/Application/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/appcreator04/Desktop/Memory/Application/build/intermediates/transforms/dex/debug/folders/1000/5/slice_9/classes.dex"
+            type="DEX" />
+    </build>
+    <build timestamp="806019889835" >
+        <artifact
+            location="/Users/appcreator04/Desktop/Memory/Application/build/intermediates/res/resources-debug.ap_"
+            type="RESOURCES" />
+    </build>
 
 </instant-run>

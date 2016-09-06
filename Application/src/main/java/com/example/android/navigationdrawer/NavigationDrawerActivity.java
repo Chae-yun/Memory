@@ -33,10 +33,7 @@ import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
 import android.view.ViewGroup;
-import android.widget.ImageView;
 import android.widget.Toast;
-
-import java.util.Locale;
 
 /**
  * This example illustrates a common usage of the DrawerLayout widget
@@ -229,15 +226,20 @@ public class NavigationDrawerActivity extends Activity implements PlanetAdapter.
         @Override
         public View onCreateView(LayoutInflater inflater, ViewGroup container,
                                  Bundle savedInstanceState) {
-            View rootView = inflater.inflate(R.layout.fragment_memory, container, false);
             int i = getArguments().getInt(ARG_NUMBER);
+            View rootView=null;
+            switch(i) {
+                case 0:
+                    rootView = inflater.inflate(R.layout.fragment_family, container, false);
+                    break;
+                case 1:
+                    rootView = inflater.inflate(R.layout.fragment_friend, container, false);
+                    break;
+                case 2:
+                    rootView = inflater.inflate(R.layout.fragment_teacher, container, false);
+                    break;
+            }
             String planet = getResources().getStringArray(R.array.memory_array)[i];
-
-            int imageId = getResources().getIdentifier(planet.toLowerCase(Locale.getDefault()),
-                    "drawable", getActivity().getPackageName());
-            ImageView iv = ((ImageView) rootView.findViewById(R.id.image));
-            iv.setImageResource(imageId);
-
             getActivity().setTitle(planet);
             return rootView;
         }

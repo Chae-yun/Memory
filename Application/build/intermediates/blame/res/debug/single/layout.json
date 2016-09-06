@@ -20,6 +20,10 @@
         "source": "/Users/appcreator04/Desktop/Memory/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_dialog_title_material.xml"
     },
     {
+        "merged": "/Users/appcreator04/Desktop/Memory/Application/build/intermediates/res/merged/debug/layout/fragment_family.xml",
+        "source": "/Users/appcreator04/Desktop/Memory/Application/src/main/res/layout/fragment_family.xml"
+    },
+    {
         "merged": "/Users/appcreator04/Desktop/Memory/Application/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
         "source": "/Users/appcreator04/Desktop/Memory/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_action_mode_bar.xml"
     },
@@ -30,6 +34,10 @@
     {
         "merged": "/Users/appcreator04/Desktop/Memory/Application/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
         "source": "/Users/appcreator04/Desktop/Memory/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Users/appcreator04/Desktop/Memory/Application/build/intermediates/res/merged/debug/layout/fragment_friend.xml",
+        "source": "/Users/appcreator04/Desktop/Memory/Application/src/main/res/layout/fragment_friend.xml"
     },
     {
         "merged": "/Users/appcreator04/Desktop/Memory/Application/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow.xml",
@@ -88,10 +96,6 @@
         "source": "/Users/appcreator04/Desktop/Memory/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/notification_media_action.xml"
     },
     {
-        "merged": "/Users/appcreator04/Desktop/Memory/Application/build/intermediates/res/merged/debug/layout/fragment_memory.xml",
-        "source": "/Users/appcreator04/Desktop/Memory/Application/src/main/res/layout/fragment_memory.xml"
-    },
-    {
         "merged": "/Users/appcreator04/Desktop/Memory/Application/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
         "source": "/Users/appcreator04/Desktop/Memory/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_screen_simple_overlay_action_mode.xml"
     },
@@ -106,6 +110,10 @@
     {
         "merged": "/Users/appcreator04/Desktop/Memory/Application/build/intermediates/res/merged/debug/layout/activity_navigation_drawer.xml",
         "source": "/Users/appcreator04/Desktop/Memory/Application/src/main/res/layout/activity_navigation_drawer.xml"
+    },
+    {
+        "merged": "/Users/appcreator04/Desktop/Memory/Application/build/intermediates/res/merged/debug/layout/fragment_teacher.xml",
+        "source": "/Users/appcreator04/Desktop/Memory/Application/src/main/res/layout/fragment_teacher.xml"
     },
     {
         "merged": "/Users/appcreator04/Desktop/Memory/Application/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
