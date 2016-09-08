@@ -27,4 +27,12 @@
     <string name="st01">PUDDING</string>
     <string name="st02">GODIVA</string>
     <string name="st09">스타벅스 : 악마의 음료</string>
+
+    <string name="menu_share">Share</string>
+    <string name="str01">돈까스초밥</string>
+    <string name="str02">소세지초밥</string>
+    <string name="str03">연어뱃살초밥</string>
+    <string name="str04">규카츠초밥</string>
+    <string name="str05">새우초밥</string>
+    <string name="str06">게살초밥</string>
 </resources>
