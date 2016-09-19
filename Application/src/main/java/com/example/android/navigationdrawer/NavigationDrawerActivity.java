@@ -249,16 +249,15 @@ public class NavigationDrawerActivity extends Activity implements PlanetAdapter.
                     break;
                 case 1:
                     rootView = inflater.inflate(R.layout.fragment_friend, container, false);
+                    iv=(ImageView) rootView.findViewById(R.id.image05);
+                    iv.setOnClickListener(m_nda);
+                    //스태틱 클래스는 this를 못쓰니까 참조변수로 받음
                     break;
                 case 2:
                     rootView = inflater.inflate(R.layout.fragment_teacher, container, false);
                     break;
             }
             String planet = getResources().getStringArray(R.array.memory_array)[i];
-
-            iv=((ImageView) rootView.findViewById(R.id.image05));
-            iv.setOnClickListener(m_nda);
-            //스태틱 클래스는 this를 못쓰니까 참조변수로 받햣 음
 
             getActivity().setTitle(planet);
             return rootView;

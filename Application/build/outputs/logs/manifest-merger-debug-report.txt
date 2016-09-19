@@ -48,18 +48,20 @@ category#android.intent.category.LAUNCHER
 ADDED from /Users/appcreator04/Desktop/Memory/Application/src/main/AndroidManifest.xml:33:17-77
 	android:name
 		ADDED from /Users/appcreator04/Desktop/Memory/Application/src/main/AndroidManifest.xml:33:27-74
-activity#com.example.android.navigationdrawer.MainActivity
+activity#com.example.android.navigationdrawer.NavigationDrawerActivity
 ADDED from /Users/appcreator04/Desktop/Memory/Application/src/main/AndroidManifest.xml:36:9-39:20
 	android:label
 		ADDED from /Users/appcreator04/Desktop/Memory/Application/src/main/AndroidManifest.xml:38:13-45
 	android:name
-		ADDED from /Users/appcreator04/Desktop/Memory/Application/src/main/AndroidManifest.xml:37:13-41
-activity#com.example.android.navigationdrawer.NavigationDrawerActivity
+		ADDED from /Users/appcreator04/Desktop/Memory/Application/src/main/AndroidManifest.xml:37:13-53
+activity#com.example.android.navigationdrawer.ViewPagerActivity
 ADDED from /Users/appcreator04/Desktop/Memory/Application/src/main/AndroidManifest.xml:40:9-43:20
 	android:label
 		ADDED from /Users/appcreator04/Desktop/Memory/Application/src/main/AndroidManifest.xml:42:13-45
+	android:theme
+		ADDED from /Users/appcreator04/Desktop/Memory/Application/src/main/AndroidManifest.xml:41:13-51
 	android:name
-		ADDED from /Users/appcreator04/Desktop/Memory/Application/src/main/AndroidManifest.xml:41:13-53
+		ADDED from /Users/appcreator04/Desktop/Memory/Application/src/main/AndroidManifest.xml:40:19-52
 uses-sdk
 INJECTED from /Users/appcreator04/Desktop/Memory/Application/src/main/AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.android.support:support-v13:24.0.0] /Users/appcreator04/Desktop/Memory/Application/build/intermediates/exploded-aar/com.android.support/support-v13/24.0.0/AndroidManifest.xml:21:5-23:55

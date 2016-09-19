@@ -253,7 +253,7 @@
     <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
     <string name="abc_toolbar_collapse_description">Collapse</string>
     <string name="action_websearch">Web search</string>
-    <string name="app_name">Navigation Drawer</string>
+    <string name="app_name">존맛탱이</string>
     <string name="app_not_available">Sorry, there\'s no web browser available</string>
     <string name="drawer_close">Close navigation drawer</string>
     <string name="drawer_open">Open navigation drawer</string>
@@ -267,6 +267,7 @@
         
         
     </string>
+    <string name="menu_share">Share</string>
     <string name="navigationdraweractivity_description">This example illustrates a common usage of the DrawerLayout widget in the Android
             support library.</string>
     <string name="navigationdraweractivity_title">Navigation Drawer Example</string>
@@ -274,6 +275,12 @@
     <string name="st02">GODIVA</string>
     <string name="st09">스타벅스 : 악마의 음료</string>
     <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="str01">돈까스초밥</string>
+    <string name="str02">소세지초밥</string>
+    <string name="str03">연어뱃살초밥</string>
+    <string name="str04">규카츠초밥</string>
+    <string name="str05">새우초밥</string>
+    <string name="str06">게살초밥</string>
     <style name="AlertDialog.AppCompat" parent="Base.AlertDialog.AppCompat"/>
     <style name="AlertDialog.AppCompat.Light" parent="Base.AlertDialog.AppCompat.Light"/>
     <style name="Animation.AppCompat.Dialog" parent="Base.Animation.AppCompat.Dialog"/>
@@ -1671,5 +1678,11 @@
         <item name="android:textAppearance">?android:textAppearanceMedium</item>
         <item name="android:lineSpacingMultiplier">1.1</item>
         <item name="android:textColor">@color/black_54</item>
+    </style>
+    <style name="Widget.SampleMessageTile">
+        <item name="android:background">@drawable/tile</item>
+        <item name="android:shadowColor">#7F000000</item>
+        <item name="android:shadowDy">-3.5</item>
+        <item name="android:shadowRadius">2</item>
     </style>
 </resources>
